@@ -35,7 +35,7 @@ uuid (droppable uuid - OPZIONALE  =>  se c'è vince su name)
 `
 
 ##  Special thanks to:
-![Custom Elements](https://github.com/dinohorvat/angular-custom-elements/blob/master/src/assets/customExample.png?raw=true)
+https://github.com/dinohorvat/angular-custom-elements
 
 ## Setup
 
